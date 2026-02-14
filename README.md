@@ -1,6 +1,6 @@
 Trabalho Avaliativo - Índice Remissivo utilizando Árvore AVL (python)
 
-- Pedro Henrique Ferreira Borges Vaz - 12321GIN017
+- Pedro Henrique
 
 INTRODUÇÃO:
 
